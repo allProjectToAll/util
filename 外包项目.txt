@@ -1,5 +1,7 @@
 https://jsonplaceholder.typicode.com/posts //可外网访问的数据接口
 
+BASE_API: '"http://119.96.168.93:8084/api/v1"'
+ //上线端口
 
 git地址
 https://github.com/allProjectToAll/vue_banks.git  //门户网站
@@ -10,9 +12,29 @@ http://119.96.168.93:8082/
 
 
 发布地址。
-http://119.96.168.93:8081/provider/index.html#/login   //供应商
+http://119.96.168.93:8081/provider/index.html#/login   //供应商fms_provider_fe
+
+http://119.96.168.93:8081/provider
+    
+供应商
+http://119.96.168.93:8081/bank    银行
+
+http://119.96.168.93:8081/portal    门户
+http://119.96.168.93:8081/corecom
 
 
+ 核心企业
+http://119.96.168.93:8081/guarantee
+
+
+  担保公司
+http://119.96.168.93:8081/fms  经融
+
+
+http://localhost:9527/#/login      // fms_guarantee_fe 担保公司
+  //fms_corecompany_fe  核心企业
+ //fms_fe  经融
+//fms_bank_fe 银行
 
 http://119.96.168.93:8081/portal/index.html   //门户网站 
 https://www.fundera.com/business-loans   //外国仿照的门户网站
