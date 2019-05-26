@@ -1,0 +1,23 @@
+https://jsonplaceholder.typicode.com/posts //可外网访问的数据接口
+
+
+git地址
+https://github.com/allProjectToAll/vue_banks.git  //门户网站
+
+http://119.96.168.93:8082/
+用户名feng 密码songruifeng123
+
+
+
+发布地址。
+http://119.96.168.93:8081/provider/index.html#/login   //供应商
+
+
+
+http://119.96.168.93:8081/portal/index.html   //门户网站 
+https://www.fundera.com/business-loans   //外国仿照的门户网站
+
+
+
+
+
