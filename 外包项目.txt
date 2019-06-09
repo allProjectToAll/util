@@ -5,9 +5,7 @@ BASE_API: '"http://119.96.168.93:8084/api/v1"'
 
 git地址
 https://github.com/allProjectToAll/vue_banks.git  //门户网站
-
-http://119.96.168.93:8082/
-用户名feng 密码songruifeng123
+http://119.96.168.93:8082/  用户名feng 密码songruifeng123
 
 
 
@@ -32,7 +30,7 @@ http://119.96.168.93:8081/fms  经融
 
 
 http://localhost:9527/#/login      // fms_guarantee_fe 担保公司
-  //fms_corecompany_fe  核心企业
+  //fms_corecom_fe  核心企业
  //fms_fe  经融
 //fms_bank_fe 银行
 
@@ -40,6 +38,9 @@ http://119.96.168.93:8081/portal/index.html   //门户网站
 https://www.fundera.com/business-loans   //外国仿照的门户网站
 
 
+
+13552502402
+平安操作员
 
 
 
