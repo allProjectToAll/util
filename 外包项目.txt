@@ -12,20 +12,13 @@ http://119.96.168.93:8082/  用户名feng 密码songruifeng123
 发布地址。
 http://119.96.168.93:8081/provider/index.html#/login   //供应商fms_provider_fe
 
-http://119.96.168.93:8081/provider
-    
-供应商
+http://119.96.168.93:8081/provider 供应商
+
 http://119.96.168.93:8081/bank    银行
 
 http://119.96.168.93:8081/portal    门户
-http://119.96.168.93:8081/corecom
-
-
- 核心企业
-http://119.96.168.93:8081/guarantee
-
-
-  担保公司
+http://119.96.168.93:8081/corecom 核心企业
+http://119.96.168.93:8081/guarantee  担保公司
 http://119.96.168.93:8081/fms  经融
 
 
@@ -42,5 +35,10 @@ https://www.fundera.com/business-loans   //外国仿照的门户网站
 13552502402
 平安操作员
 
-
+ui 
+https://lanhuapp.com/url/9EjbZ-VnBra 首页
+https://lanhuapp.com/url/jYd3F-lItX1 首页2
+https://lanhuapp.com/url/mh7zN-wb2tT  合作伙伴
+https://lanhuapp.com/url/mWfcg-uGK3p  关于我们
+https://lanhuapp.com/url/FIdAJ-Xrfka 整体后台样式
 
